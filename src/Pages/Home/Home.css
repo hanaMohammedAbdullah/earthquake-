@@ -1,0 +1,14 @@
+Header h1 {
+  color: white;
+  text-align: center;
+}
+
+.bg-white {
+  background-color: white;
+}
+.center {
+  justify-content: center;
+}
+.m-5 {
+  margin: 10px;
+}
